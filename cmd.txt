@@ -1,0 +1,14 @@
+using System;
+namespace animeetokruto
+{
+    class anime
+    {
+        static void Main() 
+        {
+            Console.WriteLine("animeetokruto");
+
+           
+            Console.ReadKey();
+        }
+    }
+}
